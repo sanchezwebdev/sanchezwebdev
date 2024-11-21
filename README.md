@@ -24,7 +24,7 @@ I am web developer and tech advisor. I love programming and levaraging technolog
 
 ### 🔨 Languages and Tools:
 
-<a href="https://nodejs.org/en" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/refs/heads/master/node-js-logo-F4F55CD2D0-seeklogo.com-4159652273.png" alt="node.js" height="42px" hspace="5"/></a> 
+<a href="https://nodejs.org/en" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/f27095789ec6300d6bb9fb7da476c00e86def7c6/nodejs-icon-svgrepo-com.svg" alt="node.js" height="42px" hspace="5"/></a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/27b08b929adef501d774b425e870c5b63b406a0b/python-svgrepo-com.svg" hspace="5"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="Javascript" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/d8ac7491de122fbec3c79939f351bc0ada09361a/javascript-svgrepo-com.svg" hspace="5"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/27b08b929adef501d774b425e870c5b63b406a0b/java-svgrepo-com%20(2).svg" hspace="5"></a>
