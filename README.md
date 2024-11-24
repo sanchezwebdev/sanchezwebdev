@@ -13,7 +13,7 @@ I am web developer and tech advisor. I love programming and levaraging technolog
 
 - 🔭 &nbsp; I’m currently working on **data analytics and visualization dashboards with python and MySQL**
 - 🤝 &nbsp; I’m looking to collaborate on **full-stack applications, and AI/ML projects**
-- 🌱 &nbsp; I’m currently learning Python; 
+- 🌱 &nbsp; I’m currently learning Python
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sanchezwebdev?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sanchezwebdev/)
