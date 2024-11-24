@@ -14,11 +14,11 @@ I am web developer and tech advisor. I love programming and levaraging technolog
 - 🔭 &nbsp; I’m currently working on **data analytics and visualization dashboards with python and MySQL**
 - 🤝 &nbsp; I’m looking to collaborate on **full-stack applications, and AI/ML projects**
 - 🌱 &nbsp; I’m currently learning Python
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sanchezwebdev?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/sanchezwebdev?tab=repositories" target="_blank">Github</a>
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sanchezwebdev/)
-- 📝 &nbsp; Check out my [resume](https://docs.google.com/document/d/1YWGktc-O9KDUAYrmngungs0Z0OLnTOZMqAnHGv2_coo/edit?usp=sharing)
-- 📚 &nbsp; When I am free, I read fiction novels, and history. Checkout my [Goodreads](https://www.goodreads.com/review/list/183830290-gerardo?shelf=currently-reading) to see the book I'm currently reading
+- 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/sanchezwebdev/" target="_blank">LinkedIn</a>
+- 📝 &nbsp; Check out my <a href="https://docs.google.com/document/d/1YWGktc-O9KDUAYrmngungs0Z0OLnTOZMqAnHGv2_coo/edit?usp=sharing" target="_blank">resume</a>
+- 📚 &nbsp; When I am free, I read fiction novels, and history. Checkout my <a href="https://www.goodreads.com/review/list/183830290-gerardo?shelf=currently-reading" target="_blank">Goodreads</a> to see the book I'm currently reading
 
 <br>
 
