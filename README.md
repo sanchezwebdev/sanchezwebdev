@@ -7,7 +7,7 @@ I am web developer and tech advisor. I love programming and levaraging technolog
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0660efe82fa3da42ed56eef013171835%2Ftenor.gif%3Fitemid%3D16596559&f=1&nofb=1&ipt=c02ac9be296d10d10df9000981130e4b083beed6ef8ef2d89a694b3443e3029c&ipo=images](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fchrisdermody.com%2Fcontent%2Fimages%2F2017%2F12%2F10_coding_dribbble.gif&f=1&nofb=1&ipt=af58e380d6e38d13a5fcd4f496ecbd6a271047e11c9f4fca9d28adf349038aa4&ipo=images)" width="360px"/>   
+<img align="right" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fchrisdermody.com%2Fcontent%2Fimages%2F2017%2F12%2F10_coding_dribbble.gif&f=1&nofb=1&ipt=af58e380d6e38d13a5fcd4f496ecbd6a271047e11c9f4fca9d28adf349038aa4&ipo=images" width="360px"/>   
   
 ### 🧐 More About Me:
 
