@@ -17,7 +17,7 @@ I am web developer and project manager. I love programming and levaraging techno
 - 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/sanchezwebdev?tab=repositories" target="_blank">Github</a>
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/sanchezwebdev/" target="_blank">LinkedIn</a>
-- 📝 &nbsp; Check out my <a href="https://docs.google.com/document/d/1YWGktc-O9KDUAYrmngungs0Z0OLnTOZMqAnHGv2_coo/edit?usp=sharing" target="_blank">resume</a>
+- 📝 &nbsp; Check out my <a href="https://docs.google.com/document/d/1t-yJ-MFvNxRSkxUpnCzTNbYjyYBn6sBmAhEypXkwuRM/edit?usp=sharing" target="_blank">resume</a>
 - 📚 &nbsp; When I'm free, I read fiction novels, and history. Checkout my <a href="https://www.goodreads.com/review/list/183830290-gerardo?shelf=currently-reading" target="_blank">Goodreads</a> to see the book I'm currently reading
 
 <br>
