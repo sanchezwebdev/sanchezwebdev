@@ -11,9 +11,9 @@ I am web developer and project manager. I love programming and levaraging techno
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **data analytics and visualization dashboards with python and MySQL**
+- 🔭 &nbsp; I’m currently working on **distributed systems architecture and development**
 - 🤝 &nbsp; I’m looking to collaborate on **full-stack applications, and AI/ML projects**
-- 🌱 &nbsp; I’m currently learning Python
+- 🌱 &nbsp; I’m currently learning Pytorch and TensorFlow
 - 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/sanchezwebdev?tab=repositories" target="_blank">Github</a>
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/sanchezwebdev/" target="_blank">LinkedIn</a>
