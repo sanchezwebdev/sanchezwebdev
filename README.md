@@ -3,7 +3,7 @@
 <a href='https://gerardosanchez.dev'><img align='left' alt="portfolio" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/09b75e0e2a7c06df4827b2abe0d2538608ee4bf1/portfolio-my-profile-browser-svgrepo-com.svg" height='24px' /></a>
 <br/>
 
-I am web developer and tech advisor. I love programming and levaraging technology to build cool stuff!
+I am web developer and project manager. I love programming and levaraging technology to build cool stuff!
 <br/>
 <br/>
 
