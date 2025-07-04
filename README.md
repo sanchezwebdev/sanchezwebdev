@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sanchezwebdev/">
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/linkedin-svgrepo-com.svg" style="height:34px; width:auto;"/>
   </a>  
-  <a href="https://gerardosanchez.dev/">
+  <a href="https://gerardosanchez.dev/" target="_blank">
     <img alt="Portfolio" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/portfolio-bag-svgrepo-com.svg" style="height:30px; width:auto;"/>
   </a>
 </p>
