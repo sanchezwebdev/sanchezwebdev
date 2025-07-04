@@ -3,7 +3,7 @@
 <a href='https://gerardosanchez.dev'><img align='left' alt="portfolio" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/portfolio-bag-svgrepo-com.svg" height='48px' /></a>
 <br/>
 
-I am web developer and project manager. I love programming and levaraging technology to build cool stuff!
+<p styles = "align-self: center">I am web developer and project manager. I love programming and levaraging technology to build cool stuff!</p>
 <br/>
 <br/>
 
