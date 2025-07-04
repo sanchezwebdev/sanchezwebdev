@@ -24,7 +24,7 @@ I am web developer and project manager. I love programming and levaraging techno
 
 ### 🔨 Languages and Tools:
 
-<a href="https://nodejs.org/en" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/f27095789ec6300d6bb9fb7da476c00e86def7c6/nodejs-icon-svgrepo-com.svg" alt="node.js" height="42px" /></a> 
+<a href="https://nodejs.org/en" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/nodejs-icon-svgrepo-com.svg" alt="node.js" height="42px" /></a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/27b08b929adef501d774b425e870c5b63b406a0b/python-svgrepo-com.svg" ></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="Javascript" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/d8ac7491de122fbec3c79939f351bc0ada09361a/javascript-svgrepo-com.svg" ></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/27b08b929adef501d774b425e870c5b63b406a0b/git-svgrepo-com.svg" alt="git" height ="42px"/> </a>
@@ -35,6 +35,7 @@ I am web developer and project manager. I love programming and levaraging techno
 <a href="https://react.dev" target="_blank"><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/0e3240e2d7476d1c2da390c2d63220f179fccb8a/react-svgrepo-com.svg" ></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/refs/heads/master/bootstrap-svgrepo-com.svg" alt="bootstrap" height="42px" /> </a> 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/27b08b929adef501d774b425e870c5b63b406a0b/css-3-svgrepo-com.svg"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/27b08b929adef501d774b425e870c5b63b406a0b/postgresql-svgrepo-com.svg"></a>
 <br/>
 <br/>
 <br/>
