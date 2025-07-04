@@ -29,18 +29,18 @@
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="Javascript" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/javascript-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
-<a href="https://nodejs.org/en" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/nodejs-icon-svgrepo-com.svg" alt="node.js" style="height:42px; width:auto;" /></a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/python-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/git-svgrepo-com.svg" alt="git" style="height:42px; width:auto;" /></a>
-<a href="https://mongodb.com" target="_blank"><img align="left" alt="MongoDB" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/mongo-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
-<a href="https://mysql.com" target="_blank"><img align="left" alt="MySQL" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/mysql-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img align="left" alt="SQL Server" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/SQL_Server201.png" style="height:42px; width:auto;" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/postgresql-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/next-js-svgrepo-com.png" style="height:42px; width:auto;" /></a>
-<a href="https://react.dev" target="_blank"><img align="left" alt="React" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/react-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/bootstrap-svgrepo-com.svg" alt="bootstrap" style="height:42px; width:auto;" /></a> 
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="CSS" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/css-3-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="Javascript" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/javascript-svgrepo-com.svg" style="height:64px; width:auto;" /></a>
+<a href="https://nodejs.org/en" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/nodejs-icon-svgrepo-com.svg" alt="node.js" style="height:64px; width:auto;" /></a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/python-svgrepo-com.svg" style="height:64px; width:auto;" /></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/git-svgrepo-com.svg" alt="git" style="height:64px; width:auto;" /></a>
+<a href="https://mongodb.com" target="_blank"><img align="left" alt="MongoDB" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/mongo-svgrepo-com.svg" style="height:64px; width:auto;" /></a>
+<a href="https://mysql.com" target="_blank"><img align="left" alt="MySQL" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/mysql-svgrepo-com.svg" style="height:64px; width:auto;" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img align="left" alt="SQL Server" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/SQL_Server201.png" style="height:64px; width:auto;" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/postgresql-svgrepo-com.svg" style="height:64px; width:auto;" /></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/next-js-svgrepo-com.png" style="height:64px; width:auto;" /></a>
+<a href="https://react.dev" target="_blank"><img align="left" alt="React" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/react-svgrepo-com.svg" style="height:64px; width:auto;" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/bootstrap-svgrepo-com.svg" alt="bootstrap" style="height:64px; width:auto;" /></a> 
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="CSS" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/css-3-svgrepo-com.svg" style="height:64px; width:auto;" /></a>
 <br/>
 <br/>
 <br/>
