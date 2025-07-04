@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Gerardo!
-<a href='https://www.linkedin.com/in/sanchezwebdev/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/09b75e0e2a7c06df4827b2abe0d2538608ee4bf1/linkedin-svgrepo-com%20(1).svg" height='24px'/></a>
-<a href='https://gerardosanchez.dev'><img align='left' alt="portfolio" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/09b75e0e2a7c06df4827b2abe0d2538608ee4bf1/portfolio-my-profile-browser-svgrepo-com.svg" height='24px' /></a>
+<a href='https://www.linkedin.com/in/sanchezwebdev/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/linkedin-svgrepo-com.svg" height='24px'/></a>
+<a href='https://gerardosanchez.dev'><img align='left' alt="portfolio" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/portfolio-bag-svgrepo-com.svg" height='24px' /></a>
 <br/>
 
 I am web developer and project manager. I love programming and levaraging technology to build cool stuff!
