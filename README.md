@@ -20,10 +20,10 @@
 - 🔭 &nbsp; I’m currently working on **a knowledge-base web application and control panel**
 - 🤝 &nbsp; I’m looking to collaborate on **full-stack applications, and AI/ML projects**
 - 🌱 &nbsp; I’m currently learning Pytorch and TensorFlow
-- 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/sanchezwebdev?tab=repositories" target="_blank">Github</a>
+- 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/sanchezwebdev?tab=repositories&sort=name" target="_blank">Github</a>
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/sanchezwebdev/" target="_blank">LinkedIn</a>
-- 📝 &nbsp; Check out my <a href="https://docs.google.com/document/d/1t-yJ-MFvNxRSkxUpnCzTNbYjyYBn6sBmAhEypXkwuRM/edit?usp=sharing" target="_blank">resume</a>
+- 📝 &nbsp; Check out my <a href="https://docs.google.com/document/d/1tvNNiO2Id_Vqbn13PvqRIbd57C3sYj4TOwDwP9S3nSs/edit?usp=sharing" target="_blank">resume</a>
 - 📚 &nbsp; When I'm free, I read fiction novels, and history. Checkout my <a href="https://www.goodreads.com/review/list/183830290-gerardo?shelf=currently-reading" target="_blank">Goodreads</a> to see the book I'm currently reading
 
 <br>
