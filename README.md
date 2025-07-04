@@ -48,9 +48,9 @@
 <br/>
 
 ### 🛠️ My Projects
-<a href="https://gerardosanchez.dev/crude-intelligence" target="_blank"><img alt="Oil Rig" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/oil-platform-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
-<a href="https://gerardosanchez.dev/economiq" target="_blank"><img alt="Chart" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/web-analysis-chart-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
-<a href="https://gerardosanchez.dev/pasadena-tribune" target="_blank"><img alt="News" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/newspaper-news-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
-<a href="https://gerardosanchez.dev/control-panel" target="_blank"><img alt="Gear" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/settings-gear-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
-<a href="https://gerardosanchez.dev/magis-web-services" target="_blank"><img alt="Globe" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/web-sites-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
-<a href="https://gerardosanchez.dev/crown-invoice" target="_blank"><img alt="Invoice" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/invoice-bill-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/projects/crude-intelligence" target="_blank"><img alt="Oil Rig" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/oil-platform-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/projects/economiq" target="_blank"><img alt="Chart" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/web-analysis-chart-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/projects/pasadena-tribune" target="_blank"><img alt="News" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/newspaper-news-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/projects/control-panel" target="_blank"><img alt="Gear" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/settings-gear-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/projects/magis-web-services" target="_blank"><img alt="Globe" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/web-sites-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/projects/crown-invoice" target="_blank"><img alt="Invoice" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/invoice-bill-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
