@@ -29,8 +29,8 @@ I am web developer and project manager. I love programming and levaraging techno
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/git-svgrepo-com.svg" alt="git" height ="42px"/> </a>
 <a href="https://mongodb.com" target="_blank"> <img align="left" alt="MongoDB" height ="42px"  src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/mongo-svgrepo-com.svg" styles="filter: invert(-1)"> </a>
 <a href="https://mysql.com" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/mysql-svgrepo-com.svg"></a>
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img align="left" alt="SQL Server" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/SQL_Server201.svg" ></a>
-<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/next-js-svgrepo-com.svg" ></a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img align="left" alt="SQL Server" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/SQL_Server201.png" ></a>
+<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/next-js-svgrepo-com.png" ></a>
 <a href="https://react.dev" target="_blank"><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/react-svgrepo-com.svg" ></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/bootstrap-svgrepo-com.svg" alt="bootstrap" height="42px" /> </a> 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/css-3-svgrepo-com.svg"></a>
