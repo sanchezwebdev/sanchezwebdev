@@ -1,12 +1,11 @@
 ## Hey 👋, I'm Gerardo!
-  <a href="https://www.linkedin.com/in/sanchezwebdev/" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/sanchezwebdev/">
     <img alt="linkedin" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/linkedin-svgrepo-com.svg" height="62px"/>
   </a>
   <a href="https://gerardosanchez.dev" style="margin-right: 10px;">
     <img alt="portfolio" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/portfolio-bag-svgrepo-com.svg" height="48px"/>
   </a>
   <p style="margin: 0;">I am a web developer and project manager. I love programming and leveraging technology to build cool stuff!</p>
-
 <br/>
 <br/>
 
