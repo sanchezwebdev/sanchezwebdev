@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Gerardo!
   <a href="https://www.linkedin.com/in/sanchezwebdev/">
-    <img alt="linkedin" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/linkedin-svgrepo-com.svg" height="62px"/>
+    <img alt="linkedin" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/linkedin-svgrepo-com.svg" height="52px"/>
   </a>
   <a href="https://gerardosanchez.dev" style="margin-right: 10px;">
     <img alt="portfolio" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/portfolio-bag-svgrepo-com.svg" height="48px"/>
