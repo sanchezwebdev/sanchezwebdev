@@ -17,7 +17,7 @@
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **distributed systems architecture and development**
+- 🔭 &nbsp; I’m currently working on **a knowledge-base web application and control panel**
 - 🤝 &nbsp; I’m looking to collaborate on **full-stack applications, and AI/ML projects**
 - 🌱 &nbsp; I’m currently learning Pytorch and TensorFlow
 - 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/sanchezwebdev?tab=repositories" target="_blank">Github</a>
