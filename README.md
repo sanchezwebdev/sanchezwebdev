@@ -41,6 +41,7 @@
 <a href="https://react.dev" target="_blank"><img align="left" alt="React" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/react-svgrepo-com.svg" style="height:64px; width:auto;" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/bootstrap-svgrepo-com.svg" alt="bootstrap" style="height:64px; width:auto;" /></a> 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="CSS" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/css-3-svgrepo-com.svg" style="height:64px; width:auto;" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="CSS" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/html-5-svgrepo-com.svg" style="height:64px; width:auto;" /></a>
 <br/>
 <br/>
 <br/>
