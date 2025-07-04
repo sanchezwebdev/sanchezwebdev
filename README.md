@@ -4,9 +4,8 @@
 </p>
 <p>
   <a href="https://www.linkedin.com/in/sanchezwebdev/">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/linkedin-svgrepo-com.svg" style="height:34px;"/>
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/linkedin-svgrepo-com.svg" style="height:34px; margin-right: 10px"/>
   </a>  
-  <br/>
   <a href="https://gerardosanchez.dev/">
     <img alt="Portfolio" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/portfolio-bag-svgrepo-com.svg" style="height:30px;"/>
   </a>
