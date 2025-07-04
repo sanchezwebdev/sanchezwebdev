@@ -1,5 +1,8 @@
 ## Hey 👋, I'm Gerardo!
 <p>
+  I am a web developer and project manager. I love programming and leveraging technology to build cool stuff!
+</p>
+<p>
   <a href="https://www.linkedin.com/in/sanchezwebdev/">
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/linkedin-svgrepo-com.svg" height="40"/>
   </a>
@@ -8,9 +11,6 @@
   </a>
 </p>
 
-<p>
-  I am a web developer and project manager. I love programming and leveraging technology to build cool stuff!
-</p>
 <br/>
 <br/>
 
