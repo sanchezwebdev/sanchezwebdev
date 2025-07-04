@@ -4,10 +4,10 @@
 </p>
 <p>
   <a href="https://www.linkedin.com/in/sanchezwebdev/">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/linkedin-svgrepo-com.svg" style="height:34px;"/>
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/linkedin-svgrepo-com.svg" style="height:34px; width:auto;"/>
   </a>  
   <a href="https://gerardosanchez.dev/">
-    <img alt="Portfolio" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/portfolio-bag-svgrepo-com.svg" style="height:30px;"/>
+    <img alt="Portfolio" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/portfolio-bag-svgrepo-com.svg" style="height:30px; width:auto;"/>
   </a>
 </p>
 <br/>
@@ -29,27 +29,27 @@
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="Javascript" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/javascript-svgrepo-com.svg" ></a>
-<a href="https://nodejs.org/en" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/nodejs-icon-svgrepo-com.svg" alt="node.js" height="42px" /></a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/python-svgrepo-com.svg" ></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/git-svgrepo-com.svg" alt="git" height ="42px"/> </a>
-<a href="https://mongodb.com" target="_blank"> <img align="left" alt="MongoDB" height ="42px"  src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/mongo-svgrepo-com.svg" styles="filter: invert(-1)"> </a>
-<a href="https://mysql.com" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/mysql-svgrepo-com.svg"></a>
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img align="left" alt="SQL Server" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/SQL_Server201.png" ></a>
-<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/postgresql-svgrepo-com.svg"></a>
-<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/next-js-svgrepo-com.png" ></a>
-<a href="https://react.dev" target="_blank"><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/react-svgrepo-com.svg" ></a>
-<a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/bootstrap-svgrepo-com.svg" alt="bootstrap" height="42px" /> </a> 
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/css-3-svgrepo-com.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="Javascript" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/javascript-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
+<a href="https://nodejs.org/en" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/nodejs-icon-svgrepo-com.svg" alt="node.js" style="height:42px; width:auto;" /></a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/python-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/git-svgrepo-com.svg" alt="git" style="height:42px; width:auto;" /></a>
+<a href="https://mongodb.com" target="_blank"><img align="left" alt="MongoDB" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/mongo-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
+<a href="https://mysql.com" target="_blank"><img align="left" alt="MySQL" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/mysql-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img align="left" alt="SQL Server" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/SQL_Server201.png" style="height:42px; width:auto;" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/postgresql-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/next-js-svgrepo-com.png" style="height:42px; width:auto;" /></a>
+<a href="https://react.dev" target="_blank"><img align="left" alt="React" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/react-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/bootstrap-svgrepo-com.svg" alt="bootstrap" style="height:42px; width:auto;" /></a> 
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="CSS" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/css-3-svgrepo-com.svg" style="height:42px; width:auto;" /></a>
 <br/>
 <br/>
 <br/>
 <br/>
 
 ### 🛠️ My Projects
-<a href="https://gerardosanchez.dev/crude-intelligence" target="_blank"> <img alt="Oil Rig" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/oil-platform-svgrepo-com.svg" height="86" align="left" > </a>
-<a href="https://gerardosanchez.dev/economiq" target="_blank"> <img alt="Chart" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/web-analysis-chart-svgrepo-com.svg" height="86" align="left" > </a>
-<a href="https://gerardosanchez.dev/pasadena-tribune" target="_blank"> <img alt="News" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/newspaper-news-svgrepo-com.svg" height="86" align="left" > </a>
-<a href="https://gerardosanchez.dev/control-panel" target="_blank"> <img alt="Gear" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/settings-gear-svgrepo-com.svg"  height="86" align="left" ></a>
-<a href="https://gerardosanchez.dev/magis-web-services" target="_blank"> <img alt="Globe" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/web-sites-svgrepo-com.svg" height="86" align="left" > </a>
-<a href="https://gerardosanchez.dev/crown-invoice" target="_blank"> <img alt="Invoice" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/invoice-bill-svgrepo-com.svg" height="86" align="left"> </a>
+<a href="https://gerardosanchez.dev/crude-intelligence" target="_blank"><img alt="Oil Rig" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/oil-platform-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/economiq" target="_blank"><img alt="Chart" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/web-analysis-chart-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/pasadena-tribune" target="_blank"><img alt="News" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/newspaper-news-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/control-panel" target="_blank"><img alt="Gear" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/settings-gear-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/magis-web-services" target="_blank"><img alt="Globe" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/web-sites-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
+<a href="https://gerardosanchez.dev/crown-invoice" target="_blank"><img alt="Invoice" src="https://raw.githubusercontent.com/sanchezwebdev/svgs/master/invoice-bill-svgrepo-com.svg" style="height:86px; width:auto;" align="left" /></a>
