@@ -12,8 +12,7 @@
 </p>
 <br/>
 <br/>
-
-<img align="right" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fchrisdermody.com%2Fcontent%2Fimages%2F2017%2F12%2F10_coding_dribbble.gif&f=1&nofb=1&ipt=af58e380d6e38d13a5fcd4f496ecbd6a271047e11c9f4fca9d28adf349038aa4&ipo=images" width="360px"/>   
+ 
   
 ### 🧐 More About Me:
 
